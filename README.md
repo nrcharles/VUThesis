@@ -9,4 +9,4 @@ Villanova University
 
 The official style is described in:
 
-`http://www1.villanova.edu/content/dam/villanova/engineering/documents/COE-PHD-10.pdf`
+`https://www1.villanova.edu/content/dam/villanova/engineering/documents/COE-PHD-10.doc`
